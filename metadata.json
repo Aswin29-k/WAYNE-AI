@@ -1,0 +1,7 @@
+{
+  "name": "wayne ai",
+  "description": "wayne ai - A multi-modal AI application. Chat with voice, text, or edit images with text prompts, all powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
